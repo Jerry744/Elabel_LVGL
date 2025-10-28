@@ -2330,25 +2330,25 @@
                       {
                         "nid": 1050,
                         "strtype": "IMGBUTTON/Image_disabled",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1060,
                         "strtype": "IMGBUTTON/Image_checked_released",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1070,
                         "strtype": "IMGBUTTON/Image_checked_pressed",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1080,
                         "strtype": "IMGBUTTON/Image_checked_disabled",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
@@ -2482,25 +2482,25 @@
                       {
                         "nid": 1050,
                         "strtype": "IMGBUTTON/Image_disabled",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1060,
                         "strtype": "IMGBUTTON/Image_checked_released",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1070,
                         "strtype": "IMGBUTTON/Image_checked_pressed",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1080,
                         "strtype": "IMGBUTTON/Image_checked_disabled",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
@@ -3261,8 +3261,7 @@
                     "InheritedType": 11
                   }
                 ],
-                "saved_objtypeKey": "LABEL",
-                "tree_closed": true
+                "saved_objtypeKey": "LABEL"
               },
               {
                 "guid": "GUID94195880-595570S18944301",
@@ -7645,25 +7644,25 @@
                           {
                             "nid": 1050,
                             "strtype": "IMGBUTTON/Image_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1060,
                             "strtype": "IMGBUTTON/Image_checked_released",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1070,
                             "strtype": "IMGBUTTON/Image_checked_pressed",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1080,
                             "strtype": "IMGBUTTON/Image_checked_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
@@ -7788,25 +7787,25 @@
                           {
                             "nid": 1050,
                             "strtype": "IMGBUTTON/Image_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1060,
                             "strtype": "IMGBUTTON/Image_checked_released",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1070,
                             "strtype": "IMGBUTTON/Image_checked_pressed",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1080,
                             "strtype": "IMGBUTTON/Image_checked_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
@@ -9689,25 +9688,25 @@
                           {
                             "nid": 1050,
                             "strtype": "IMGBUTTON/Image_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1060,
                             "strtype": "IMGBUTTON/Image_checked_released",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1070,
                             "strtype": "IMGBUTTON/Image_checked_pressed",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1080,
                             "strtype": "IMGBUTTON/Image_checked_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
@@ -9840,25 +9839,25 @@
                           {
                             "nid": 1050,
                             "strtype": "IMGBUTTON/Image_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1060,
                             "strtype": "IMGBUTTON/Image_checked_released",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1070,
                             "strtype": "IMGBUTTON/Image_checked_pressed",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1080,
                             "strtype": "IMGBUTTON/Image_checked_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
@@ -11457,25 +11456,25 @@
                           {
                             "nid": 1050,
                             "strtype": "IMGBUTTON/Image_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1060,
                             "strtype": "IMGBUTTON/Image_checked_released",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1070,
                             "strtype": "IMGBUTTON/Image_checked_pressed",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1080,
                             "strtype": "IMGBUTTON/Image_checked_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
@@ -11600,25 +11599,25 @@
                           {
                             "nid": 1050,
                             "strtype": "IMGBUTTON/Image_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1060,
                             "strtype": "IMGBUTTON/Image_checked_released",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1070,
                             "strtype": "IMGBUTTON/Image_checked_pressed",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
                             "nid": 1080,
                             "strtype": "IMGBUTTON/Image_checked_disabled",
-                            "strval": "",
+                            "strval": "-",
                             "InheritedType": 5
                           },
                           {
@@ -15172,25 +15171,25 @@
                   {
                     "nid": 1050,
                     "strtype": "IMGBUTTON/Image_disabled",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1060,
                     "strtype": "IMGBUTTON/Image_checked_released",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1070,
                     "strtype": "IMGBUTTON/Image_checked_pressed",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1080,
                     "strtype": "IMGBUTTON/Image_checked_disabled",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
@@ -15334,7 +15333,7 @@
                               {
                                 "nid": 10450,
                                 "strtype": "_style/Text_Font",
-                                "strval": "montserrat_18",
+                                "strval": "Chinese24",
                                 "InheritedType": 3
                               }
                             ],
@@ -15472,7 +15471,7 @@
                           {
                             "nid": 10450,
                             "strtype": "_style/Text_Font",
-                            "strval": "montserrat_18",
+                            "strval": "Chinese24",
                             "InheritedType": 3
                           }
                         ],
@@ -15606,25 +15605,25 @@
                   {
                     "nid": 1050,
                     "strtype": "IMGBUTTON/Image_disabled",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1060,
                     "strtype": "IMGBUTTON/Image_checked_released",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1070,
                     "strtype": "IMGBUTTON/Image_checked_pressed",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1080,
                     "strtype": "IMGBUTTON/Image_checked_disabled",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
@@ -16057,7 +16056,22 @@
                       },
                       {
                         "part": "lv.PART.MAIN",
-                        "childs": [],
+                        "childs": [
+                          {
+                            "nid": 10000,
+                            "strtype": "_style/StyleState",
+                            "strval": "DEFAULT",
+                            "childs": [
+                              {
+                                "nid": 10450,
+                                "strtype": "_style/Text_Font",
+                                "strval": "Chinese24",
+                                "InheritedType": 3
+                              }
+                            ],
+                            "InheritedType": 1
+                          }
+                        ],
                         "nid": 1050,
                         "strtype": "LABEL/Style_main",
                         "strval": "lv.PART.MAIN, Text, Rectangle, Pad, Transform",
@@ -16189,7 +16203,7 @@
                           {
                             "nid": 10450,
                             "strtype": "_style/Text_Font",
-                            "strval": "montserrat_18",
+                            "strval": "Chinese24",
                             "InheritedType": 3
                           }
                         ],
@@ -16202,8 +16216,7 @@
                     "InheritedType": 11
                   }
                 ],
-                "saved_objtypeKey": "LABEL",
-                "tree_closed": true
+                "saved_objtypeKey": "LABEL"
               },
               {
                 "guid": "GUID9428025-672871S3817485",
@@ -16329,25 +16342,25 @@
                   {
                     "nid": 1050,
                     "strtype": "IMGBUTTON/Image_disabled",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1060,
                     "strtype": "IMGBUTTON/Image_checked_released",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1070,
                     "strtype": "IMGBUTTON/Image_checked_pressed",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1080,
                     "strtype": "IMGBUTTON/Image_checked_disabled",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
@@ -16481,25 +16494,25 @@
                   {
                     "nid": 1050,
                     "strtype": "IMGBUTTON/Image_disabled",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1060,
                     "strtype": "IMGBUTTON/Image_checked_released",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1070,
                     "strtype": "IMGBUTTON/Image_checked_pressed",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
                     "nid": 1080,
                     "strtype": "IMGBUTTON/Image_checked_disabled",
-                    "strval": "",
+                    "strval": "-",
                     "InheritedType": 5
                   },
                   {
@@ -24634,18 +24647,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      -27
+                      51,
+                      -26
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -24781,18 +24794,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
+                      47,
                       -9
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -24936,18 +24949,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      7
+                      48,
+                      8
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -25090,18 +25103,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      24
+                      52,
+                      25
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -25236,18 +25249,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
+                      51,
                       41
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -25554,12 +25567,6 @@
                 "InheritedType": 1
               },
               {
-                "nid": 100,
-                "strtype": "OBJECT/Hidden",
-                "strval": "True",
-                "InheritedType": 2
-              },
-              {
                 "nid": 110,
                 "strtype": "OBJECT/Clickable",
                 "strval": "False",
@@ -25652,18 +25659,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      80,
-                      -28
+                      65,
+                      -25
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -25799,18 +25806,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      -10
+                      47,
+                      -8
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -25954,18 +25961,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      6
+                      75,
+                      9
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -26108,18 +26115,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      24
+                      52,
+                      26
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -26255,18 +26262,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      41
+                      87,
+                      43
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -26671,18 +26678,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      80,
-                      -28
+                      68,
+                      -25
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -26818,18 +26825,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      -10
+                      49,
+                      -9
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -26973,18 +26980,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      6
+                      76,
+                      9
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -27127,18 +27134,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      24
+                      52,
+                      25
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -27274,18 +27281,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      41
+                      88,
+                      43
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -27691,17 +27698,17 @@
                     "strtype": "OBJECT/Position",
                     "intarray": [
                       79,
-                      -26
+                      -25
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -27837,18 +27844,18 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      79,
-                      -9
+                      78,
+                      -8
                     ],
                     "InheritedType": 7
                   },
                   {
                     "nid": 60,
-                    "flags": 17,
+                    "flags": 51,
                     "strtype": "OBJECT/Size",
                     "intarray": [
-                      133,
-                      15
+                      1,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -28455,6 +28462,12 @@
                 "flags": 1048576,
                 "strtype": "OBJECT/Flags",
                 "InheritedType": 1
+              },
+              {
+                "nid": 100,
+                "strtype": "OBJECT/Hidden",
+                "strval": "True",
+                "InheritedType": 2
               },
               {
                 "nid": 110,
@@ -30097,7 +30110,7 @@
     "uiExportFolderPath": "C:\\Users\\slj\\Desktop\\Elabel\\Elabel\\components\\ui",
     "projectExportFolderPath": "C:\\Users\\slj\\Desktop\\Elabel\\Elabel_LVGL\\Squareline UI",
     "custom_variable_prefix": "uic",
-    "backup_cnt": 247,
+    "backup_cnt": 248,
     "autosave_cnt": 0,
     "lvgl_version": "8.3.11",
     "callfuncsexport": "C_FILE",
