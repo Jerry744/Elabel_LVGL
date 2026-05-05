@@ -1472,6 +1472,12 @@
                     "InheritedType": 1
                   },
                   {
+                    "nid": 100,
+                    "strtype": "OBJECT/Hidden",
+                    "strval": "True",
+                    "InheritedType": 2
+                  },
+                  {
                     "nid": 230,
                     "strtype": "OBJECT/Scrollable",
                     "strval": "False",
@@ -1867,7 +1873,7 @@
                       {
                         "nid": 1020,
                         "strtype": "IMGBUTTON/Button_state",
-                        "strval": "RELEASED",
+                        "strval": "PRESSED",
                         "InheritedType": 3
                       },
                       {
@@ -1879,31 +1885,31 @@
                       {
                         "nid": 1040,
                         "strtype": "IMGBUTTON/Image_pressed",
-                        "strval": "assets/cancel_y.png",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1050,
                         "strtype": "IMGBUTTON/Image_disabled",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1060,
                         "strtype": "IMGBUTTON/Image_checked_released",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1070,
                         "strtype": "IMGBUTTON/Image_checked_pressed",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1080,
                         "strtype": "IMGBUTTON/Image_checked_disabled",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
@@ -2018,43 +2024,43 @@
                       {
                         "nid": 1020,
                         "strtype": "IMGBUTTON/Button_state",
-                        "strval": "PRESSED",
+                        "strval": "RELEASED",
                         "InheritedType": 3
                       },
                       {
                         "nid": 1030,
                         "strtype": "IMGBUTTON/Image_released",
-                        "strval": "assets/start_n.png",
+                        "strval": "assets/start_y.png",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1040,
                         "strtype": "IMGBUTTON/Image_pressed",
-                        "strval": "assets/start_y.png",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1050,
                         "strtype": "IMGBUTTON/Image_disabled",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1060,
                         "strtype": "IMGBUTTON/Image_checked_released",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1070,
                         "strtype": "IMGBUTTON/Image_checked_pressed",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1080,
                         "strtype": "IMGBUTTON/Image_checked_disabled",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
@@ -2132,12 +2138,6 @@
                     "flags": 1048576,
                     "strtype": "OBJECT/Flags",
                     "InheritedType": 1
-                  },
-                  {
-                    "nid": 100,
-                    "strtype": "OBJECT/Hidden",
-                    "strval": "True",
-                    "InheritedType": 2
                   },
                   {
                     "nid": 230,
@@ -2299,12 +2299,6 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": 360,
-                        "strtype": "OBJECT/Pressed",
-                        "strval": "True",
-                        "InheritedType": 2
-                      },
-                      {
                         "nid": 1010,
                         "strtype": "IMGBUTTON/Images",
                         "InheritedType": 1
@@ -2312,7 +2306,7 @@
                       {
                         "nid": 1020,
                         "strtype": "IMGBUTTON/Button_state",
-                        "strval": "PRESSED",
+                        "strval": "RELEASED",
                         "InheritedType": 3
                       },
                       {
@@ -2324,31 +2318,31 @@
                       {
                         "nid": 1040,
                         "strtype": "IMGBUTTON/Image_pressed",
-                        "strval": "assets/cancel_y.png",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1050,
                         "strtype": "IMGBUTTON/Image_disabled",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1060,
                         "strtype": "IMGBUTTON/Image_checked_released",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1070,
                         "strtype": "IMGBUTTON/Image_checked_pressed",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1080,
                         "strtype": "IMGBUTTON/Image_checked_disabled",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
@@ -2464,43 +2458,43 @@
                       {
                         "nid": 1020,
                         "strtype": "IMGBUTTON/Button_state",
-                        "strval": "PRESSED",
+                        "strval": "RELEASED",
                         "InheritedType": 3
                       },
                       {
                         "nid": 1030,
                         "strtype": "IMGBUTTON/Image_released",
-                        "strval": "assets/retry_n.png",
+                        "strval": "assets/retry_y.png",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1040,
                         "strtype": "IMGBUTTON/Image_pressed",
-                        "strval": "assets/retry_y.png",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1050,
                         "strtype": "IMGBUTTON/Image_disabled",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1060,
                         "strtype": "IMGBUTTON/Image_checked_released",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1070,
                         "strtype": "IMGBUTTON/Image_checked_pressed",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1080,
                         "strtype": "IMGBUTTON/Image_checked_disabled",
-                        "strval": "-",
+                        "strval": "",
                         "InheritedType": 5
                       },
                       {
@@ -24934,25 +24928,25 @@
                       {
                         "nid": 1050,
                         "strtype": "IMGBUTTON/Image_disabled",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1060,
                         "strtype": "IMGBUTTON/Image_checked_released",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1070,
                         "strtype": "IMGBUTTON/Image_checked_pressed",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
                         "nid": 1080,
                         "strtype": "IMGBUTTON/Image_checked_disabled",
-                        "strval": "",
+                        "strval": "-",
                         "InheritedType": 5
                       },
                       {
@@ -40018,10 +40012,10 @@
     "theme_dark": false,
     "theme_color1": 5,
     "theme_color2": 0,
-    "uiExportFolderPath": "/Users/zhengyang/Downloads/Elabel_LVGL_ENG_Export",
+    "uiExportFolderPath": "C:\\Users\\Jerry\\Desktop\\ELABEL_LVGL_EN",
     "projectExportFolderPath": "/Users/zhengyang/Downloads/Elabel_LVGL-ENGLISH/Squareline UI",
     "custom_variable_prefix": "uic",
-    "backup_cnt": 264,
+    "backup_cnt": 265,
     "autosave_cnt": 0,
     "lvgl_version": "8.3.11",
     "callfuncsexport": "C_FILE",
